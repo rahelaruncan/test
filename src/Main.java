@@ -65,9 +65,6 @@ public class Main {
 //        op.numerePare(1, 100);
 //        op.numaratoarePanaLaOSutaWhile(20);
 //        op.numaratoareDelaPanaLaWhile(1, 100);
-//        op.numerePare(1, 100);
-//        op.numerePare(1, 100);
-
 
     }
 

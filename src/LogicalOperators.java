@@ -152,4 +152,10 @@ public class LogicalOperators {
             }
         }
     }
+
+
+  //  Scrieti o metoda Java, care sa primeasca parametru o Lista,
+    //  si sa afiseze, pe rand, toate valorile din lista, dar invers(de la capat la inceput).
+
+    public
 }
