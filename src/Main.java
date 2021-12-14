@@ -65,6 +65,8 @@ public class Main {
 //        op.numerePare(1, 100);
 //        op.numaratoarePanaLaOSutaWhile(20);
 //        op.numaratoareDelaPanaLaWhile(1, 100);
+//        System.out.println(op.checkBiggerNumber(5,7));
+        System.out.println(op.checkString("Evozon"));
 
     }
 

@@ -153,4 +153,25 @@ public class LogicalOperators {
         }
     }
 
+//In clasa OperatiiLogice, creati o metoda de tip int, care sa se numeasca checkBiggerNumber(),
+// si sa primeasca doua int-uri ca si parametrii. Folosind if - else, verificati in interiorul
+// metode care numar este mai mare, dintre cele doua valori care va vin ca si parametrii, si returnati numarul mai mare.
+
+    public int checkBiggerNumber(int a, int b) {
+        if (a > b)
+            return a;
+        else
+            return b;
+    }
+
+//    4. Creati o metoda de tip String, care sa primeasca un parametru de tip String. Verificati
+//    daca textul ce vine ca si parametru este egal cu “Evozon”. Daca da, atunci metoda sa returneze
+//    “Learning text comparison”. Daca nu, atunci metoda sa returneze “Got to try some more”.
+
+    public String checkString(String text){
+        if (text.equals("Evozon"))
+            return "Learning text comparison";
+        else
+            return "Got to try some more";
+    }
 }
